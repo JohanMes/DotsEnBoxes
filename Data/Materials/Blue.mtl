@@ -1,0 +1,3 @@
+diffuse Blue.dds 1
+normal RoadNormal.dds
+shader PerPixelNormal

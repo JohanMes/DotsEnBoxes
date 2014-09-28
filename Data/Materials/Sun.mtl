@@ -1,0 +1,3 @@
+diffuse Sun.dds 100
+shader PureTexture
+alphatest 1
